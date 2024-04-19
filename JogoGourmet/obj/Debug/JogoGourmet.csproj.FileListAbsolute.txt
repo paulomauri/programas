@@ -1,0 +1,13 @@
+D:\Estudo\JogoGourmet\bin\Debug\JogoGourmet.exe.config
+D:\Estudo\JogoGourmet\bin\Debug\JogoGourmet.exe
+D:\Estudo\JogoGourmet\bin\Debug\JogoGourmet.pdb
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.csproj.AssemblyReference.cache
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.csproj.SuggestedBindingRedirects.cache
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.frmJogoGourmet.resources
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.Properties.Resources.resources
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.csproj.GenerateResource.cache
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.csproj.CoreCompileInputs.cache
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.exe
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.pdb
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.frmPergunta.resources
+D:\Estudo\JogoGourmet\obj\Debug\JogoGourmet.frmEscolha.resources
